@@ -3,7 +3,7 @@
 This viewer has for purpose the visiualize the results of my master thesis.
 
 ## Live demo
-User can try a live demo on [https:cgallay.github.com/BrainViewer](https:cgallay.github.com/BrainViewer).
+User can try a live demo on [https://cgallay.github.com/BrainViewer](https://cgallay.github.com/BrainViewer).
 
 The user needs first to upload the brain and then the attention map.
 
