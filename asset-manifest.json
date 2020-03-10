@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BrainViewer/static/css/main.1e1c5b9b.chunk.css",
+    "main.js": "/BrainViewer/static/js/main.579828eb.chunk.js",
+    "main.js.map": "/BrainViewer/static/js/main.579828eb.chunk.js.map",
+    "runtime-main.js": "/BrainViewer/static/js/runtime-main.0221dea0.js",
+    "runtime-main.js.map": "/BrainViewer/static/js/runtime-main.0221dea0.js.map",
+    "static/css/2.5bc4965f.chunk.css": "/BrainViewer/static/css/2.5bc4965f.chunk.css",
+    "static/js/2.1ea872a0.chunk.js": "/BrainViewer/static/js/2.1ea872a0.chunk.js",
+    "static/js/2.1ea872a0.chunk.js.map": "/BrainViewer/static/js/2.1ea872a0.chunk.js.map",
+    "index.html": "/BrainViewer/index.html",
+    "precache-manifest.8afc4b7b0d241f83da61f599e77a1e69.js": "/BrainViewer/precache-manifest.8afc4b7b0d241f83da61f599e77a1e69.js",
+    "service-worker.js": "/BrainViewer/service-worker.js",
+    "static/css/2.5bc4965f.chunk.css.map": "/BrainViewer/static/css/2.5bc4965f.chunk.css.map",
+    "static/css/main.1e1c5b9b.chunk.css.map": "/BrainViewer/static/css/main.1e1c5b9b.chunk.css.map",
+    "static/js/2.1ea872a0.chunk.js.LICENSE.txt": "/BrainViewer/static/js/2.1ea872a0.chunk.js.LICENSE.txt",
+    "static/media/brain_icon.svg": "/BrainViewer/static/media/brain_icon.bcb183bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0221dea0.js",
+    "static/css/2.5bc4965f.chunk.css",
+    "static/js/2.1ea872a0.chunk.js",
+    "static/css/main.1e1c5b9b.chunk.css",
+    "static/js/main.579828eb.chunk.js"
+  ]
+}
