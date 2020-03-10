@@ -1,0 +1,49 @@
+{
+  "name": "vis",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://cgallay.github.io/MasterProject",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^3.26.11",
+    "d3": "^5.15.0",
+    "eslint-plugin-flowtype": "^3.13.0",
+    "nifti-reader-js": "^0.5.4",
+    "numjs": "^0.16.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
+    "react-scripts": "3.4.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
