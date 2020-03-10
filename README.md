@@ -14,7 +14,7 @@ Example data for an dementia patient can be download:
 
 Example data for a control patient can be download:
  - [Brain](https://github.com/cgallay/BrainViewer/raw/master/data/Control/sub_01/MNI152_norm.nii.gz)
- - [AttentionMap](https://github.com/cgallay/BrainViewer/raw/master/data/attentionMap/sub_01/attentionMap.nii.gz)
+ - [AttentionMap](https://github.com/cgallay/BrainViewer/raw/master/data/Control/sub_01/attentionMap.nii.gz)
 
 ## Dev mode
 It has been tested with node v10.18.1
